@@ -1,0 +1,66 @@
+body {background:url(http://jenicyber.hexat.com/C/combat/Bire.png);margin:0;padding:0;color:#ccc} 
+#header {margin:0;padding:0px;text-align:center;font-size:small;background:url(http://jenicyber.hexat.com/C/combat/Mmb21.png)bottom right no-repeat}
+.heading {margin:0;padding:6px 2px 0px;background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);border-bottom:2px solid #000;border-right:10px solid #000;border-left:10px solid #000} 
+#header .heading a {padding:0px 0 0 0;color:darkkhaki;margin:0;text-shadow:1px 1px 1px #000;font-size:small}
+#navigation span+span+span a {content:"Down"} 
+.description {;font-size:small;padding:10px 0 2px 3px;margin:0;color:darkkhaki;text-shadow:1px 1px 1px #000;text-align:center}
+#navigation {;text-align:center;text-transform:uppercase;margin:0px;padding:0px 0px 2px;font-size:small} 
+#navigation span {margin:0px;text-align:center;padding:0px} 
+#navigation span a {margin:2px;padding:5px 8px 1px 8px;color:darkkhaki;text-shadow:1px 1px 1px #000;background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000;display:block;width:30%} 
+#top-content {text-align:center;background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);margin:0;padding:6px 0px 10px;border-top:2px solid #000} 
+#search-form [type=text] {width:75%;height:18px;background:url(http://jenicyber.hexat.com/C/combat/Bire.png);border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000;margin:0;padding:0} 
+#search-form [type=submit] {width:12%;height:21px;margin:0 0 0 -4px;padding:0px;background:url(http://www.veryicon.com/icon/16/System/Radium%20Neue%20Mac%20Icons/Search.png)center center no-repeat;font-size:0;border:none;}
+.post-meta {background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);color:#777;padding:3px 3px 6px 3px;margin:0}
+.post-meta .title {color:darkkhaki;text-shadow:1px 1px 1px #000;margin:0;padding:0px} 
+.post-meta .title:before {content:url(http://jenicyber.hexat.com/C/combat/G5.png);float:left;margin:0 3px;padding:0px} 
+.post-meta2 {padding:0px;text-align:right;margin:-4px 0 0 0px;background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png)} 
+.post-meta2 a {margin:0px;padding:5px 6px 1px 6px;border-top:1px solid #666;border-right:1px solid #666;border-left:1px solid #666;background:#000;color:darkkhaki} 
+.post-meta2 a:before {content: url(http://wq.lt/QGD7);margin:0 3px;padding:0} 
+.post-meta a{color:darkkhaki;text-shadow:1px 1px 1px #000;}
+.post-content {margin:0;padding:3px 3px 0 3px}
+#content {margin:0px;padding:0px} 
+.post-single {background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);margin:5px 8px 0px 8px;padding:0;border:2px solid #000;border-bottom:none} 
+#pagination-links {padding:0;margin:15px 0px 15px 0px;text-align:center} 
+#pagination-links span {color:darkkhaki;margin:0;padding:4px;border-top:1px solid darkkhaki;border-right:1px solid darkkhaki;border-bottom:3px solid darkkhaki;border-left:3px solid darkkhaki;background:#005555;display:inline} 
+#pagination-links a {;background:#003CFF;margin:0;padding:4px;color:darkkhaki;text-shadow:1px 1px 1px #000;border-top:1px solid darkkhaki;border-right:1px solid darkkhaki;border-bottom:3px solid darkkhaki;border-left:3px solid darkkhaki;display:inline} 
+#blogroll,#category-bottom,#navigation-menu{margin:0 0 10px 0;padding:0px} 
+#category-bottom,#blogroll,#navigation-menu {list-style:none} 
+ol,ul,li {margin:0px;padding:0px} 
+a {color:darkkhaki;text-shadow:1px 1px 1px #000} 
+h3 a {color:darkkhaki;text-shadow:1px 1px 1px #000}  
+#category-bottom li {list-style:none;text-align:right} 
+#category-bottom li a {float:left} 
+.comment-header .title,.categories {font-size:small;margin:0;padding:0} 
+#comments h3,#recent-posts-list h4,#following-list h4,#blogroll_list h3 {margin:0;padding:7px 2px;color:darkkhaki;text-shadow:1px 1px 1px #000;text-align:center;background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000} 
+#comments {background:url(http://jenicyber.hexat.com/C/combat/Bire.png);margin:-5px 0px 0px 0px;padding:0} 
+#comments .comment:nth-child(odd) {margin:4px 4px 4px 20px;padding:0px;background:#002222;border:3px solid #000} 
+#comments .comment:nth-child(even) {margin:4px 20px 4px 4px;padding:0px;border:3px solid #000;background:#333}
+.comment-header {margin:0;padding:2px;color:#666;border-bottom:1px dashed #555} 
+.comment-header .title:before {content: url(http://jenicyber.hexat.com/C/combat/G6.png);float:left;margin:0 3px;padding:2px;} 
+.comment-content {margin:0;padding:3px 2px 0px 3px} 
+#share-buttons {margin:3px 0;padding:0px;text-align:center;} 
+#comments h4,#comments h5 {margin:0px;padding:2px;font-size:small} 
+#comment_form{text-align:center;margin:0px;padding:0px} 
+#comment_form textarea{background:#000;width:65%;height:50px;margin:0px 0;border:1px solid #444;color:#555}
+#comment_form .inp-text {background:#000;padding:2px;margin:2px 0;border:1px solid #444;color:#555;width:28%} 
+#comment_form [type=submit] {background:#000;margin:2px 0 4px 0;color:#555;padding:5px 15px 1px 15px;border:1px solid #444}
+#footer {background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000;margin:5px 0px 0px;padding:5px;text-align:center;}
+#footer h6:before {content:"Tuban-Jatim";} 
+#footer h6 {margin:0;padding:0} 
+#footer a {color:darkkhaki;text-shadow:1px 1px 1px #000} 
+#footer h6:after {content:"Didesain Oleh : Template Team";margin:1px;padding:1px;color:#950;text-shadow:1px 1px 1px #000;display:block} 
+#blogroll li a, #category-bottom li a, #navigation-menu li a, #recent-posts-list li a {color:darkkhaki;text-shadow:1px 1px 1px #000} 
+.comment-header a {color:darkkhaki;text-shadow:1px 1px 1px #000}
+#navigation-menu li,#following-list li,#blogroll_list li {list-style:none;margin:2px;margin-right:4%;margin-left:4%;padding:5px 3px;border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000;background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png)}
+#recent-posts-list li {background:#002222;margin:0;padding:5px 2px;list-style:none;border-bottom:1px solid #000}
+#navigation-menu h3 ,#category-bottom h3 ,#blogroll h3 {background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);margin:0;text-align:center;margin-right:60%;padding:7px 2px;border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000;color:darkkhaki;text-shadow:1px 1px 1px #000}
+#category-bottom li {background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);margin:2px;margin-right:4%;margin-left:4%;padding:5px 2px;list-style:none;border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000}
+#blogroll li {background:url(http://jenicyber.hexat.com/C/combat/Bgbirr.png);margin:2px;margin-right:4%;margin-left:4%;padding:5px 2px;list-style:none;border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000}
+#blogroll li {list-style:none}
+#blogroll li:before ,#recent-posts-list li:before {content:url(http://wq.lt/QGD7);margin:0 2px;padding:2px}
+#comments li {margin:0;padding:6px 2px;text-align:center;list-style:none;background:#002222;color:#555}
+.post {border-top:2px solid #000;border-right:10px solid #000;border-bottom:2px solid #000;border-left:10px solid #000;margin:5px 8px 5px 8px;padding:0px;} 
+.post-single:first-child .post-content,.comment h5{display:block!important} 
+.post-content a{color:darkkhaki;text-shadow:1px 1px 1px #000;} 
+#content .post .post-content {font-size:0;content:none!important;}
+h1,h2,h3,h4,h5,h6 {font-size:small}
